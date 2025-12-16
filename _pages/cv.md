@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, University of British Columbia, 2029 (expected)
+* M.Sc. in Mechanical Engineering, University of Calgary, 2025
+* B.Sc. in Mechanical Engineering, University of Calgary, 2022
 
 Work experience
 ======
@@ -28,9 +28,9 @@ Work experience
   * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
-  * GitHub University
+  * University of Calgary
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Simon Park
   
 Skills
 ======
@@ -47,11 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
