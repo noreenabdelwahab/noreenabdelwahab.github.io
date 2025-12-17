@@ -8,13 +8,8 @@ date: 2022-09-01
 location: "Calgary, AB, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I received the *Award for Graduate Assistants* in recognition of excellence in the teaching assistance of undergraduate engineering students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Description
+------
+Control volume methodology for multi-dimensional systems as applied to conservation principles (mass, linear and angular momentum); Navier-Stokes equations applied to pipe and boundary layer flows; basic principles of potential flow theory and aerodynamics and an introduction to compressible flow (convergent-divergent channels and normal shocks).
