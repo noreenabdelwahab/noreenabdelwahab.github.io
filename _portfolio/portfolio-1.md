@@ -1,6 +1,6 @@
 ---
 title: "Video processing algorithm for vibration monitoring"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/OspreyPatch.JPEG'>"
+excerpt: "Short description of portfolio item number 1"
 collection: portfolio
 ---
 

@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "Calgary, AB, Canada"
 ---
 
-I received the *Award for Graduate Assistants* in recognition of excellence in the teaching assistance of undergraduate engineering students.
+Many thanks for the Graduate Teaching Award nomination ([awarded in 2023]()).
 
 Description
 ------

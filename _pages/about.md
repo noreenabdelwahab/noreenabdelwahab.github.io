@@ -16,5 +16,5 @@ Prior to this, I completed an MSc in Mechanical Engineering supervised by [Dr. C
 
 I completed my Bachelor of Science in Mechanical Engineering with a Minor in Mechatronics, and received over 20 awards and scholarships, including the Governor General’s Medals and the Seymour Schulich Scholarship. During undergrad, I helped lead the successful launch of three student-designed and manufactured rockets. 
 
-
+This website was made using Academic Pages...
 
