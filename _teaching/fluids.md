@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "Calgary, AB, Canada"
 ---
 
-Many thanks for the Graduate Teaching Award nomination ([awarded in 2023]()).
+Many thanks for the Graduate Teaching Award nomination (awarded in 2023).
 
 Description
 ------
