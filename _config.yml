@@ -30,12 +30,12 @@ author:
   location         : "Vancouver, BC, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
-  email            : "noreenabdelwahab@yahoo.com" 
+  email            : "noreenabdelwahab@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EyyNHqIAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-5706-7401"
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "noreenabd"
+  instagram        : # "noreenabd"
   lastfm           : # Username
   linkedin         : "www.linkedin.com/in/noreen-abdelwahab"
   mastodon         : # URL
@@ -84,6 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  preprints:
+    title: 'Preprints'
   books:
     title: 'Books'
   manuscripts:
@@ -92,6 +94,7 @@ publication_category:
     title: 'Conference Papers'
   thesis:
     title: 'Thesis'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
